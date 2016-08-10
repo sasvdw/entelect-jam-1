@@ -1,0 +1,4231 @@
+fileFormatVersion: 2
+guid: a383bbdbe5c04064692100fa547df6ba
+timeCreated: 1470511748
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Damage-playerShip1_damage1
+    21300002: Damage-playerShip1_damage2
+    21300004: Damage-playerShip1_damage3
+    21300006: Damage-playerShip2_damage1
+    21300008: Damage-playerShip2_damage2
+    21300010: Damage-playerShip2_damage3
+    21300012: Damage-playerShip3_damage1
+    21300014: Damage-playerShip3_damage2
+    21300016: Damage-playerShip3_damage3
+    21300018: Effects-fire00
+    21300020: Effects-fire01
+    21300022: Effects-fire02
+    21300024: Effects-fire03
+    21300026: Effects-fire04
+    21300028: Effects-fire05
+    21300030: Effects-fire06
+    21300032: Effects-fire07
+    21300034: Effects-fire08
+    21300036: Effects-fire09
+    21300038: Effects-fire10
+    21300040: Effects-fire11
+    21300042: Effects-fire12
+    21300044: Effects-fire13
+    21300046: Effects-fire14
+    21300048: Effects-fire15
+    21300050: Effects-fire16
+    21300052: Effects-fire17
+    21300054: Effects-fire18
+    21300056: Effects-fire19
+    21300058: Effects-shield1
+    21300060: Effects-shield2
+    21300062: Effects-shield3
+    21300064: Effects-speed
+    21300066: Effects-star1
+    21300068: Effects-star2
+    21300070: Effects-star3
+    21300072: Enemies-enemyBlack1
+    21300074: Enemies-enemyBlack2
+    21300076: Enemies-enemyBlack3
+    21300078: Enemies-enemyBlack4
+    21300080: Enemies-enemyBlack5
+    21300082: Enemies-enemyBlue1
+    21300084: Enemies-enemyBlue2
+    21300086: Enemies-enemyBlue3
+    21300088: Enemies-enemyBlue4
+    21300090: Enemies-enemyBlue5
+    21300092: Enemies-enemyGreen1
+    21300094: Enemies-enemyGreen2
+    21300096: Enemies-enemyGreen3
+    21300098: Enemies-enemyGreen4
+    21300100: Enemies-enemyGreen5
+    21300102: Enemies-enemyRed1
+    21300104: Enemies-enemyRed2
+    21300106: Enemies-enemyRed3
+    21300108: Enemies-enemyRed4
+    21300110: Enemies-enemyRed5
+    21300112: Lasers-laserBlue01
+    21300114: Lasers-laserBlue02
+    21300116: Lasers-laserBlue03
+    21300118: Lasers-laserBlue04
+    21300120: Lasers-laserBlue05
+    21300122: Lasers-laserBlue06
+    21300124: Lasers-laserBlue07
+    21300126: Lasers-laserBlue08
+    21300128: Lasers-laserBlue09
+    21300130: Lasers-laserBlue10
+    21300132: Lasers-laserBlue11
+    21300134: Lasers-laserBlue12
+    21300136: Lasers-laserBlue13
+    21300138: Lasers-laserBlue14
+    21300140: Lasers-laserBlue15
+    21300142: Lasers-laserBlue16
+    21300144: Lasers-laserGreen01
+    21300146: Lasers-laserGreen02
+    21300148: Lasers-laserGreen03
+    21300150: Lasers-laserGreen04
+    21300152: Lasers-laserGreen05
+    21300154: Lasers-laserGreen06
+    21300156: Lasers-laserGreen07
+    21300158: Lasers-laserGreen08
+    21300160: Lasers-laserGreen09
+    21300162: Lasers-laserGreen10
+    21300164: Lasers-laserGreen11
+    21300166: Lasers-laserGreen12
+    21300168: Lasers-laserGreen13
+    21300170: Lasers-laserGreen14
+    21300172: Lasers-laserGreen15
+    21300174: Lasers-laserGreen16
+    21300176: Lasers-laserRed01
+    21300178: Lasers-laserRed02
+    21300180: Lasers-laserRed03
+    21300182: Lasers-laserRed04
+    21300184: Lasers-laserRed05
+    21300186: Lasers-laserRed06
+    21300188: Lasers-laserRed07
+    21300190: Lasers-laserRed08
+    21300192: Lasers-laserRed09
+    21300194: Lasers-laserRed10
+    21300196: Lasers-laserRed11
+    21300198: Lasers-laserRed12
+    21300200: Lasers-laserRed13
+    21300202: Lasers-laserRed14
+    21300204: Lasers-laserRed15
+    21300206: Lasers-laserRed16
+    21300208: Meteors-meteorBrown_big1
+    21300210: Meteors-meteorBrown_big2
+    21300212: Meteors-meteorBrown_big3
+    21300214: Meteors-meteorBrown_big4
+    21300216: Meteors-meteorBrown_med1
+    21300218: Meteors-meteorBrown_med3
+    21300220: Meteors-meteorBrown_small1
+    21300222: Meteors-meteorBrown_small2
+    21300224: Meteors-meteorBrown_tiny1
+    21300226: Meteors-meteorBrown_tiny2
+    21300228: Meteors-meteorGrey_big1
+    21300230: Meteors-meteorGrey_big2
+    21300232: Meteors-meteorGrey_big3
+    21300234: Meteors-meteorGrey_big4
+    21300236: Meteors-meteorGrey_med1
+    21300238: Meteors-meteorGrey_med2
+    21300240: Meteors-meteorGrey_small1
+    21300242: Meteors-meteorGrey_small2
+    21300244: Meteors-meteorGrey_tiny1
+    21300246: Meteors-meteorGrey_tiny2
+    21300248: Parts-beam0
+    21300250: Parts-beam1
+    21300252: Parts-beam2
+    21300254: Parts-beam3
+    21300256: Parts-beam4
+    21300258: Parts-beam5
+    21300260: Parts-beam6
+    21300262: Parts-beamLong1
+    21300264: Parts-beamLong2
+    21300266: Parts-cockpitBlue_0
+    21300268: Parts-cockpitBlue_1
+    21300270: Parts-cockpitBlue_2
+    21300272: Parts-cockpitBlue_3
+    21300274: Parts-cockpitBlue_4
+    21300276: Parts-cockpitBlue_5
+    21300278: Parts-cockpitBlue_6
+    21300280: Parts-cockpitBlue_7
+    21300282: Parts-cockpitGreen_0
+    21300284: Parts-cockpitGreen_1
+    21300286: Parts-cockpitGreen_2
+    21300288: Parts-cockpitGreen_3
+    21300290: Parts-cockpitGreen_4
+    21300292: Parts-cockpitGreen_5
+    21300294: Parts-cockpitGreen_6
+    21300296: Parts-cockpitGreen_7
+    21300298: Parts-cockpitRed_0
+    21300300: Parts-cockpitRed_1
+    21300302: Parts-cockpitRed_2
+    21300304: Parts-cockpitRed_3
+    21300306: Parts-cockpitRed_4
+    21300308: Parts-cockpitRed_5
+    21300310: Parts-cockpitRed_6
+    21300312: Parts-cockpitRed_7
+    21300314: Parts-cockpitYellow_0
+    21300316: Parts-cockpitYellow_1
+    21300318: Parts-cockpitYellow_2
+    21300320: Parts-cockpitYellow_3
+    21300322: Parts-cockpitYellow_4
+    21300324: Parts-cockpitYellow_5
+    21300326: Parts-cockpitYellow_6
+    21300328: Parts-cockpitYellow_7
+    21300330: Parts-engine1
+    21300332: Parts-engine2
+    21300334: Parts-engine3
+    21300336: Parts-engine4
+    21300338: Parts-engine5
+    21300340: Parts-gun00
+    21300342: Parts-gun01
+    21300344: Parts-gun02
+    21300346: Parts-gun03
+    21300348: Parts-gun04
+    21300350: Parts-gun05
+    21300352: Parts-gun06
+    21300354: Parts-gun07
+    21300356: Parts-gun08
+    21300358: Parts-gun09
+    21300360: Parts-gun10
+    21300362: Parts-scratch1
+    21300364: Parts-scratch2
+    21300366: Parts-scratch3
+    21300368: Parts-turretBase_big
+    21300370: Parts-turretBase_small
+    21300372: Parts-wingBlue_0
+    21300374: Parts-wingBlue_1
+    21300376: Parts-wingBlue_2
+    21300378: Parts-wingBlue_3
+    21300380: Parts-wingBlue_4
+    21300382: Parts-wingBlue_5
+    21300384: Parts-wingBlue_6
+    21300386: Parts-wingBlue_7
+    21300388: Parts-wingGreen_0
+    21300390: Parts-wingGreen_1
+    21300392: Parts-wingGreen_2
+    21300394: Parts-wingGreen_3
+    21300396: Parts-wingGreen_4
+    21300398: Parts-wingGreen_5
+    21300400: Parts-wingGreen_6
+    21300402: Parts-wingGreen_7
+    21300404: Parts-wingRed_0
+    21300406: Parts-wingRed_1
+    21300408: Parts-wingRed_2
+    21300410: Parts-wingRed_3
+    21300412: Parts-wingRed_4
+    21300414: Parts-wingRed_5
+    21300416: Parts-wingRed_6
+    21300418: Parts-wingRed_7
+    21300420: Parts-wingYellow_0
+    21300422: Parts-wingYellow_1
+    21300424: Parts-wingYellow_2
+    21300426: Parts-wingYellow_3
+    21300428: Parts-wingYellow_4
+    21300430: Parts-wingYellow_5
+    21300432: Parts-wingYellow_6
+    21300434: Parts-wingYellow_7
+    21300436: Power-ups-bold_silver
+    21300438: Power-ups-bolt_bronze
+    21300440: Power-ups-bolt_gold
+    21300442: Power-ups-pill_blue
+    21300444: Power-ups-pill_green
+    21300446: Power-ups-pill_red
+    21300448: Power-ups-pill_yellow
+    21300450: Power-ups-powerupBlue
+    21300452: Power-ups-powerupBlue_bolt
+    21300454: Power-ups-powerupBlue_shield
+    21300456: Power-ups-powerupBlue_star
+    21300458: Power-ups-powerupGreen
+    21300460: Power-ups-powerupGreen_bolt
+    21300462: Power-ups-powerupGreen_shield
+    21300464: Power-ups-powerupGreen_star
+    21300466: Power-ups-powerupRed
+    21300468: Power-ups-powerupRed_bolt
+    21300470: Power-ups-powerupRed_shield
+    21300472: Power-ups-powerupRed_star
+    21300474: Power-ups-powerupYellow
+    21300476: Power-ups-powerupYellow_bolt
+    21300478: Power-ups-powerupYellow_shield
+    21300480: Power-ups-powerupYellow_star
+    21300482: Power-ups-shield_bronze
+    21300484: Power-ups-shield_gold
+    21300486: Power-ups-shield_silver
+    21300488: Power-ups-star_bronze
+    21300490: Power-ups-star_gold
+    21300492: Power-ups-star_silver
+    21300494: Power-ups-things_bronze
+    21300496: Power-ups-things_gold
+    21300498: Power-ups-things_silver
+    21300500: UI-buttonBlue
+    21300502: UI-buttonGreen
+    21300504: UI-buttonRed
+    21300506: UI-buttonYellow
+    21300508: UI-cursor
+    21300510: UI-numeral0
+    21300512: UI-numeral1
+    21300514: UI-numeral2
+    21300516: UI-numeral3
+    21300518: UI-numeral4
+    21300520: UI-numeral5
+    21300522: UI-numeral6
+    21300524: UI-numeral7
+    21300526: UI-numeral8
+    21300528: UI-numeral9
+    21300530: UI-numeralX
+    21300532: UI-playerLife1_blue
+    21300534: UI-playerLife1_green
+    21300536: UI-playerLife1_orange
+    21300538: UI-playerLife1_red
+    21300540: UI-playerLife2_blue
+    21300542: UI-playerLife2_green
+    21300544: UI-playerLife2_orange
+    21300546: UI-playerLife2_red
+    21300548: UI-playerLife3_blue
+    21300550: UI-playerLife3_green
+    21300552: UI-playerLife3_orange
+    21300554: UI-playerLife3_red
+    21300556: black
+    21300558: blue
+    21300560: darkPurple
+    21300562: playerShip1_blue
+    21300564: playerShip1_green
+    21300566: playerShip1_orange
+    21300568: playerShip1_red
+    21300570: playerShip2_blue
+    21300572: playerShip2_green
+    21300574: playerShip2_orange
+    21300576: playerShip2_red
+    21300578: playerShip3_blue
+    21300580: playerShip3_green
+    21300582: playerShip3_orange
+    21300584: playerShip3_red
+    21300586: purple
+    21300588: ufoBlue
+    21300590: ufoGreen
+    21300592: ufoRed
+    21300594: ufoYellow
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Damage-playerShip1_damage1
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 1721
+        width: 99
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Damage-playerShip1_damage2
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1438
+        width: 99
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Damage-playerShip1_damage3
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 1799
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Damage-playerShip2_damage1
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1602
+        width: 111
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Damage-playerShip2_damage2
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1712
+        width: 112
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Damage-playerShip2_damage3
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1634
+        width: 112
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Damage-playerShip3_damage1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1454
+        width: 97
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Damage-playerShip3_damage2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1454
+        width: 97
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Damage-playerShip3_damage3
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1419
+        width: 97
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Effects-fire00
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1263
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Effects-fire01
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1012
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Effects-fire02
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1079
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Effects-fire03
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1113
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Effects-fire04
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 979
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Effects-fire05
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 946
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Effects-fire06
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 913
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Effects-fire07
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 880
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Effects-fire08
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1221
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Effects-fire09
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1240
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Effects-fire10
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1198
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Effects-fire11
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 847
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Effects-fire12
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1045
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Effects-fire13
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1110
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Effects-fire14
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 870
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Effects-fire15
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 856
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Effects-fire16
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 837
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Effects-fire17
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 837
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Effects-fire18
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 833
+        width: 16
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Effects-fire19
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1325
+        width: 16
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Effects-shield1
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1680
+        width: 133
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Effects-shield2
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1669
+        width: 143
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Effects-shield3
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1745
+        width: 144
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Effects-speed
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1503
+        width: 7
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Effects-star1
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1028
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Effects-star2
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1002
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Effects-star3
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 976
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Enemies-enemyBlack1
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1333
+        width: 93
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Enemies-enemyBlack2
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1463
+        width: 104
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Enemies-enemyBlack3
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1377
+        width: 103
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Enemies-enemyBlack4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1368
+        width: 82
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Enemies-enemyBlack5
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 1214
+        width: 97
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Enemies-enemyBlue1
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1275
+        width: 93
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Enemies-enemyBlue2
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1527
+        width: 104
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Enemies-enemyBlue3
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1583
+        width: 103
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Enemies-enemyBlue4
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1368
+        width: 82
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Enemies-enemyBlue5
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 1144
+        width: 97
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Enemies-enemyGreen1
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1210
+        width: 93
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Enemies-enemyGreen2
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1471
+        width: 104
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Enemies-enemyGreen3
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1516
+        width: 103
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Enemies-enemyGreen4
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1247
+        width: 82
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Enemies-enemyGreen5
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 1128
+        width: 97
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Enemies-enemyRed1
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1124
+        width: 93
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Enemies-enemyRed2
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1405
+        width: 104
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Enemies-enemyRed3
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1497
+        width: 103
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Enemies-enemyRed4
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1189
+        width: 82
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Enemies-enemyRed5
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1042
+        width: 97
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Lasers-laserBlue01
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1441
+        width: 9
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Lasers-laserBlue02
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 835
+        width: 13
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Lasers-laserBlue03
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1236
+        width: 9
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Lasers-laserBlue04
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 808
+        width: 13
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Lasers-laserBlue05
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1191
+        width: 9
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Lasers-laserBlue06
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 781
+        width: 13
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Lasers-laserBlue07
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1152
+        width: 9
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Lasers-laserBlue08
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1376
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Lasers-laserBlue09
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1045
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Lasers-laserBlue10
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1047
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Lasers-laserBlue11
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1630
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Lasers-laserBlue12
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1444
+        width: 13
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Lasers-laserBlue13
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 1346
+        width: 9
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Lasers-laserBlue14
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1385
+        width: 13
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Lasers-laserBlue15
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 1287
+        width: 9
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Lasers-laserBlue16
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 829
+        width: 13
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Lasers-laserGreen01
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1086
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Lasers-laserGreen02
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1326
+        width: 13
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Lasers-laserGreen03
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1179
+        width: 9
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Lasers-laserGreen04
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 781
+        width: 13
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Lasers-laserGreen05
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1113
+        width: 9
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Lasers-laserGreen06
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 834
+        width: 13
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Lasers-laserGreen07
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 1120
+        width: 9
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Lasers-laserGreen08
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 777
+        width: 13
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Lasers-laserGreen09
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1074
+        width: 9
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Lasers-laserGreen10
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 829
+        width: 13
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Lasers-laserGreen11
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1277
+        width: 9
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Lasers-laserGreen12
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 777
+        width: 13
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Lasers-laserGreen13
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1106
+        width: 9
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Lasers-laserGreen14
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 997
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Lasers-laserGreen15
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 949
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Lasers-laserGreen16
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 938
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Lasers-laserRed01
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1221
+        width: 9
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Lasers-laserRed02
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 835
+        width: 13
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Lasers-laserRed03
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1035
+        width: 9
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Lasers-laserRed04
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 835
+        width: 13
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Lasers-laserRed05
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 996
+        width: 9
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Lasers-laserRed06
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 835
+        width: 13
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Lasers-laserRed07
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1067
+        width: 9
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Lasers-laserRed08
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1160
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Lasers-laserRed09
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1257
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Lasers-laserRed10
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 924
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Lasers-laserRed11
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 933
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Lasers-laserRed12
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 830
+        width: 13
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Lasers-laserRed13
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 1069
+        width: 9
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Lasers-laserRed14
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 830
+        width: 13
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Lasers-laserRed15
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 1010
+        width: 9
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Lasers-laserRed16
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 829
+        width: 13
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Meteors-meteorBrown_big1
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1635
+        width: 101
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Meteors-meteorBrown_big2
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1690
+        width: 120
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Meteors-meteorBrown_big3
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 958
+        width: 89
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Meteors-meteorBrown_big4
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1307
+        width: 98
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Meteors-meteorBrown_med1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1003
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Meteors-meteorBrown_med3
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1108
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Meteors-meteorBrown_small1
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1607
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Meteors-meteorBrown_small2
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1002
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Meteors-meteorBrown_tiny1
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 915
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Meteors-meteorBrown_tiny2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1166
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Meteors-meteorGrey_big1
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1549
+        width: 101
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Meteors-meteorGrey_big2
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1645
+        width: 120
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Meteors-meteorGrey_big3
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 874
+        width: 89
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Meteors-meteorGrey_big4
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1296
+        width: 98
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Meteors-meteorGrey_med1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 978
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Meteors-meteorGrey_med2
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1106
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Meteors-meteorGrey_small1
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1577
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Meteors-meteorGrey_small2
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 974
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Meteors-meteorGrey_tiny1
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 895
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Meteors-meteorGrey_tiny2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1149
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-beam0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 967
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-beam1
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 947
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-beam2
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1597
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-beam3
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1030
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-beam4
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 885
+        width: 41
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-beam5
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 962
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-beam6
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 978
+        width: 43
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-beamLong1
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 1257
+        width: 15
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-beamLong2
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1054
+        width: 25
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-cockpitBlue_0
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1455
+        width: 51
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-cockpitBlue_1
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1019
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-cockpitBlue_2
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 966
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-cockpitBlue_3
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1126
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-cockpitBlue_4
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1228
+        width: 47
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-cockpitBlue_5
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1324
+        width: 48
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-cockpitBlue_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 816
+        width: 42
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-cockpitBlue_7
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1148
+        width: 41
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-cockpitGreen_0
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1378
+        width: 51
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-cockpitGreen_1
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1001
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-cockpitGreen_2
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 962
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-cockpitGreen_3
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1061
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-cockpitGreen_4
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1188
+        width: 47
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-cockpitGreen_5
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1057
+        width: 42
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-cockpitGreen_6
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 921
+        width: 41
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-cockpitGreen_7
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1247
+        width: 48
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-cockpitRed_0
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1299
+        width: 51
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-cockpitRed_1
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 977
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-cockpitRed_2
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 999
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-cockpitRed_3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1305
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-cockpitRed_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1165
+        width: 47
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-cockpitRed_5
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1170
+        width: 48
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-cockpitRed_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1014
+        width: 42
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-cockpitRed_7
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 893
+        width: 41
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-cockpitYellow_0
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 972
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-cockpitYellow_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1305
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-cockpitYellow_2
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1159
+        width: 47
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-cockpitYellow_3
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1093
+        width: 48
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-cockpitYellow_4
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 994
+        width: 42
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-cockpitYellow_5
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 889
+        width: 41
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-cockpitYellow_6
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 989
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-cockpitYellow_7
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1301
+        width: 51
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-engine1
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1572
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-engine2
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 969
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-engine3
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1553
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-engine4
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1401
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-engine5
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1133
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-gun00
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1183
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-gun01
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 935
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-gun02
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1146
+        width: 14
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-gun03
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1637
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-gun04
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1282
+        width: 16
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-gun05
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1913
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-gun06
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 970
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-gun07
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1448
+        width: 14
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-gun08
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1238
+        width: 10
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-gun09
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 1691
+        width: 20
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-gun10
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 1637
+        width: 20
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-scratch1
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1895
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-scratch2
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1877
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-scratch3
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1184
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-turretBase_big
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 904
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-turretBase_small
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 861
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-wingBlue_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1108
+        width: 45
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-wingBlue_1
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1498
+        width: 37
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-wingBlue_2
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1487
+        width: 26
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-wingBlue_3
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1222
+        width: 51
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-wingBlue_4
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 896
+        width: 42
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-wingBlue_5
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1297
+        width: 51
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-wingBlue_6
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1020
+        width: 42
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-wingBlue_7
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1048
+        width: 43
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-wingGreen_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1085
+        width: 45
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-wingGreen_1
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1424
+        width: 37
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-wingGreen_2
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1368
+        width: 26
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-wingGreen_3
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1145
+        width: 51
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-wingGreen_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 885
+        width: 42
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-wingGreen_5
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1230
+        width: 51
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-wingGreen_6
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 947
+        width: 42
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-wingGreen_7
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1023
+        width: 43
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-wingRed_0
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1024
+        width: 26
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-wingRed_1
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1282
+        width: 37
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-wingRed_2
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1083
+        width: 51
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-wingRed_3
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1063
+        width: 42
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-wingRed_4
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1176
+        width: 51
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-wingRed_5
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 902
+        width: 42
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-wingRed_6
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1023
+        width: 43
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-wingRed_7
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1150
+        width: 45
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-wingYellow_0
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1096
+        width: 45
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-wingYellow_1
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1208
+        width: 37
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-wingYellow_2
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 789
+        width: 26
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-wingYellow_3
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1043
+        width: 51
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-wingYellow_4
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1024
+        width: 42
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-wingYellow_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1234
+        width: 51
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-wingYellow_6
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 820
+        width: 42
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Parts-wingYellow_7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1000
+        width: 43
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Power-ups-bold_silver
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1605
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Power-ups-bolt_bronze
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1573
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Power-ups-bolt_gold
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1225
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Power-ups-pill_blue
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2025
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Power-ups-pill_green
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2002
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Power-ups-pill_red
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1979
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Power-ups-pill_yellow
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1956
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Power-ups-powerupBlue
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 1518
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Power-ups-powerupBlue_bolt
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 1483
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Power-ups-powerupBlue_shield
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 1448
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Power-ups-powerupBlue_star
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 998
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Power-ups-powerupGreen
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 966
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Power-ups-powerupGreen_bolt
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 939
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Power-ups-powerupGreen_shield
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 998
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Power-ups-powerupGreen_star
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 963
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Power-ups-powerupRed
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 963
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Power-ups-powerupRed_bolt
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 934
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Power-ups-powerupRed_shield
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 931
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Power-ups-powerupRed_star
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 904
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Power-ups-powerupYellow
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 903
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Power-ups-powerupYellow_bolt
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 898
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Power-ups-powerupYellow_shield
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 889
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Power-ups-powerupYellow_star
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 884
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Power-ups-shield_bronze
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 992
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Power-ups-shield_gold
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1001
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Power-ups-shield_silver
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 969
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Power-ups-star_bronze
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1455
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Power-ups-star_gold
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1423
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Power-ups-star_silver
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1391
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Power-ups-things_bronze
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 958
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Power-ups-things_gold
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 901
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Power-ups-things_silver
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 897
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UI-buttonBlue
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 2007
+        width: 222
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UI-buttonGreen
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1966
+        width: 222
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UI-buttonRed
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1925
+        width: 222
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UI-buttonYellow
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1884
+        width: 222
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UI-cursor
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1356
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UI-numeral0
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1204
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UI-numeral1
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1183
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UI-numeral2
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1162
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UI-numeral3
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1141
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UI-numeral4
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1120
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UI-numeral5
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 955
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UI-numeral6
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1168
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UI-numeral7
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1147
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UI-numeral8
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1126
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UI-numeral9
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1226
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UI-numeralX
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 876
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UI-playerLife1_blue
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 930
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UI-playerLife1_green
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 902
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UI-playerLife1_orange
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 935
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UI-playerLife1_red
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 935
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UI-playerLife2_blue
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 919
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UI-playerLife2_green
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 893
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UI-playerLife2_orange
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 874
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UI-playerLife2_red
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 874
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UI-playerLife3_blue
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 876
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UI-playerLife3_green
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 907
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UI-playerLife3_orange
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 875
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UI-playerLife3_red
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 870
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: black
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1790
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: blue
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1790
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: darkPurple
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1790
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerShip1_blue
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1450
+        width: 99
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerShip1_green
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1361
+        width: 99
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerShip1_orange
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1373
+        width: 99
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerShip1_red
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1394
+        width: 99
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerShip2_blue
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1568
+        width: 112
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerShip2_green
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1613
+        width: 112
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerShip2_orange
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1557
+        width: 112
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerShip2_red
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1491
+        width: 112
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerShip3_blue
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1296
+        width: 98
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerShip3_green
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 1230
+        width: 98
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerShip3_orange
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1219
+        width: 98
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: playerShip3_red
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 1300
+        width: 98
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: purple
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1532
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ufoBlue
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1126
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ufoGreen
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1051
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ufoRed
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1033
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ufoYellow
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 958
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
