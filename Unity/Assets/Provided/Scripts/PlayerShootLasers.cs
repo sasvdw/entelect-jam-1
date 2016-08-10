@@ -20,13 +20,14 @@ public class PlayerShootLasers : MonoBehaviour {
 	void Update () {
 	    if (energy < energyCostPerShot) {
             energy += Time.deltaTime * energyPerSecond;
+            return;
         }
 
         if (Input.GetButton("Fire1")) {
             energy -= energyCostPerShot;
 
-            Instantiate(shot, leftGun);
-            Instantiate(shot, rightGun);
+            Instantiate(shot, leftGun.position, Quaternion.identity);
+            Instantiate(shot, rightGun.position, Quaternion.identity);
         }
-	}
+    }
 }
