@@ -1,9 +1,9 @@
 ﻿using UnityEngine;
-using System.Collections;
 
 public class LaserBoltOnCollisionDestroy : MonoBehaviour {
+    private Collider2D origin;
 
-	// Use this for initialization
+    // Use this for initialization
 	void Start () {
 	
 	}
@@ -14,8 +14,16 @@ public class LaserBoltOnCollisionDestroy : MonoBehaviour {
 	}
 
     void OnTriggerEnter2D(Collider2D collider) {
-        Debug.Log("Kaboom!");
+        if (collider == origin)
+        {
+            return;
+        }
         Destroy(collider.gameObject);
         Destroy(this.gameObject);
+    }
+
+    public void SetOrigin(Collider2D origin)
+    {
+        this.origin = origin;
     }
 }
