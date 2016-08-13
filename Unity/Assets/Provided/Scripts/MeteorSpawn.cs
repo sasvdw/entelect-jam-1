@@ -56,8 +56,8 @@ public class MeteorSpawn : MonoBehaviour
 
     private void SpawnMeteor()
     {
-        var indexSpawn = (int) (Random.value* (this.spawns.Length - 1));
-        var indexMeteor = (int) (Random.value*(this.Meteors.Length - 1));
+        var indexSpawn = Random.Range(0, this.spawns.Length);
+        var indexMeteor = Random.Range(0, this.Meteors.Length);
 
         var meteorToSpawn = this.Meteors[indexMeteor];
         var spawnPosition = this.spawns[indexSpawn].position;
