@@ -3,7 +3,7 @@ using UnityEngine;
 
 public class MeteorSpawn : MonoBehaviour
 {
-    public Transform Meteor;
+    public Transform[] Meteors;
     public float SpawnRate = 10.0f;
 
     private readonly Transform[] spawns = new Transform[4];
@@ -56,13 +56,13 @@ public class MeteorSpawn : MonoBehaviour
 
     private void SpawnMeteor()
     {
-        var index = (int) (Random.value*3);
+        var indexSpawn = (int) (Random.value* (this.spawns.Length - 1));
+        var indexMeteor = (int) (Random.value*(this.Meteors.Length - 1));
 
-        if (this.spawns[index] == null)
-        {
-            Debug.Log(index);
-        }
-        Instantiate(this.Meteor, this.spawns[index].position, Quaternion.identity);
+        var meteorToSpawn = this.Meteors[indexMeteor];
+        var spawnPosition = this.spawns[indexSpawn].position;
+
+        Instantiate(meteorToSpawn, spawnPosition, Quaternion.identity);
 
         timeCount = 0.0f;
     }
